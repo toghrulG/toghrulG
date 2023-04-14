@@ -71,3 +71,8 @@ To get uptodate about the contents I create, you may follow me on GitHub, Linked
 <br />
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/codertoghrul)
+  
+ <div>
+  <small>Support the <strong><em style ="color:red;">author</em></strong> to create more educational materials</small> <br />  
+<a href = "https://www.paypal.me/ToghrulGafarov"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+</div>
