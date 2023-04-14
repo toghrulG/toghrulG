@@ -4,31 +4,31 @@
 
 ## Front-End Developer | Youtube Content Creator
 
-<font color="pink" >Coffee coffee is how I keep up with `<code />` </font>
+<font color="pink">Coffee coffee is how I keep up with `<code />` </font>
 
 ### Reach out to me
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/youtube.svg" align="left" />
+<br />
+
+[<img height="32" width="32" color="red" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/2048px-YouTube_social_white_squircle.svg.png" align="left" />
 ][youtube]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />
+[<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="left" />
 ][linkedin]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/udemy.svg" align="left" />
+[<img height="32" width="" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Emblem.png" align="left" />
 ][udemy]
 
+<br />
 <br />
 
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [Şəxsi Portfolio Saytı Necə Yaradılır | Skills| Bölüm #5](https://www.youtube.com/watch?v=nKap8AdrRw0)
-- [Şəxsi Portfolio Saytı Necə Yaradılır | About | Bölüm #4](https://www.youtube.com/watch?v=eYwgGvTFESo)
-- [Şəxsi Portfolio Saytı Necə Yaradılır | Image Move | Bölüm #3](https://www.youtube.com/watch?v=B715MBOpRvk)
-- [Şəxsi Portfolio Saytı Necə Yaradılır | Center Section | Bölüm #2](https://www.youtube.com/watch?v=7gYzG1UxcGM)
-- [Şəxsi Portfolio Saytı Necə Yaradılır | HTML CSS və JavaScript | Bölüm #1 | Navigation Bar](https://www.youtube.com/watch?v=U113mBGGM84)
 <!-- YOUTUBE:END -->
 
+<br />
+
 <details>
-<summary>:bulb: Github Stats</summary>
+<summary>📊 Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=toghrulG&theme=radical" >
 </details>
 <details>
@@ -43,11 +43,21 @@
 <br />
 <br />
 
-### Tech I use
+### 💻 Tech I use
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25">
+<br />
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="32" height="32">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="32" height="32">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="32" height="32">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="25" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="32" height="32">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="32" height="32">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="32" height="32">
+
+<br />
+
+## 💰 You can help me by Donating
+
+<br />
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/codertoghrul)
