@@ -21,9 +21,11 @@ To get uptodate about the contents I create, you may follow me on GitHub, Linked
 ][udemy]
 
 <br />
+
 <br />
 
-## Latest Youtube Videos
+
+## <a href="https://www.youtube.com/@programmingwithtoghrul" target="_blank"><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/2048px-YouTube_social_white_squircle.svg.png' alt='YouTube' width="5%"></a> Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
 - [Şəxsi Portfolio Saytı Necə Yaradılır | Skills| Bölüm #5](https://www.youtube.com/watch?v=nKap8AdrRw0)
