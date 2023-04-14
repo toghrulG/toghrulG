@@ -26,6 +26,11 @@ To get uptodate about the contents I create, you may follow me on GitHub, Linked
 ## Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Şəxsi Portfolio Saytı Necə Yaradılır | Skills| Bölüm #5](https://www.youtube.com/watch?v=nKap8AdrRw0)
+- [Şəxsi Portfolio Saytı Necə Yaradılır | About | Bölüm #4](https://www.youtube.com/watch?v=eYwgGvTFESo)
+- [Şəxsi Portfolio Saytı Necə Yaradılır | Image Move | Bölüm #3](https://www.youtube.com/watch?v=B715MBOpRvk)
+- [Şəxsi Portfolio Saytı Necə Yaradılır | Center Section | Bölüm #2](https://www.youtube.com/watch?v=7gYzG1UxcGM)
+- [Şəxsi Portfolio Saytı Necə Yaradılır | HTML CSS və JavaScript | Bölüm #1 | Navigation Bar](https://www.youtube.com/watch?v=U113mBGGM84)
 <!-- YOUTUBE:END -->
 
 <br />
