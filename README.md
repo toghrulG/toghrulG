@@ -8,6 +8,8 @@
 
 This GitHub page has many educational materials about HTML, CSS, JS, React, Libraries, Web Development and many other topics. The contents are known for their clarity and simplicity.
 
+![](https://komarev.com/ghpvc/?username=toghrulG&color=blueviolet)
+
 ### Reach out to me
 To get uptodate about the contents I create, you may follow me on GitHub, LinkedIn and Youtube.
 
