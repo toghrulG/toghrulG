@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right" width="400" height="250">
 
-### Hi there, I'm Toghrul. :blush:
+## Hi there, I'm Toghrul. :blush:
 
-## Front-End Developer | Youtube Content Creator
+### Front-End Developer | Youtube Content Creator
 
 <font color="pink"> Coffee coffee is how I keep up with `<code />` </font>
 
