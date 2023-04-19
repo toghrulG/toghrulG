@@ -44,9 +44,10 @@ To get uptodate about the contents I create, you may follow me on GitHub, Linked
 <summary>📊 Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=toghrulG&theme=radical" >
 </details>
+
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toghrulG&layout=compact" >
 </details>
 
 [youtube]: https://www.youtube.com/@programmingwithtoghrul/
