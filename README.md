@@ -31,11 +31,11 @@ To get uptodate about the contents I create, you may follow me on GitHub, Linked
 ## Latest <a href="https://www.youtube.com/@programmingwithtoghrul" target="_blank"><img width="100" src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/2560px-YouTube_Logo_2017.svg.png' alt='YouTube' width="5%"></a>    Videos
 
 <!-- YOUTUBE:START -->
+- [Şəxsi Portfolio Saytı Necə Yaradılır | A-to-Z How to Create Portfolio Website HTML CSS &amp; JavaScript](https://www.youtube.com/watch?v=oKox05oyY6s)
 - [Şəxsi Portfolio Saytı Necə Yaradılır | Skills](https://www.youtube.com/watch?v=2sOvAI-ZGWk)
 - [Şəxsi Portfolio Saytı Necə Yaradılır | HTML CSS və JavaScript](https://www.youtube.com/watch?v=ufBbEeA7170)
 - [Şəxsi Portfolio Saytı Necə Yaradılır | Responsive Design| | ChatGPT| | Cursor Pointer |Bölüm #7](https://www.youtube.com/watch?v=RRJED0bDCss)
 - [GitHub Profilini necə yaratmaq olar | Next Level Github Profile | Actions, Icons, GIFs, Links, Stats](https://www.youtube.com/watch?v=GiRTh7IYV3U)
-- [Şəxsi Portfolio Saytı Necə Yaradılır | Contact| | EmailJS| Bölüm #6](https://www.youtube.com/watch?v=dxewv6obFDo)
 <!-- YOUTUBE:END -->
 
 <br />
