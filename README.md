@@ -14,17 +14,9 @@ Leads key work across **Lucebra’s instructor strategy, data operations, instru
 
 ## 👨‍💼 Professional Overview & Impact at Lucebra
 
-<table border="0">
-  <tr>
-    <td width="150" align="center" valign="top">
-      <img src="./assets/toghrul_gafarov.png" width="130" height="130" style="border-radius: 50%; object-fit: cover;" alt="Toghrul Gafarov - Data Operations Lead at Lucebra" />
-    </td>
-    <td valign="top">
-      <p>As a <strong>Research and Data Operations Manager</strong> with extensive experience in data analysis, project management, and research methodologies, I specialize in turning complex data into actionable insights for the <strong><a href="https://www.lucebra.com">Lucebra</a></strong> ecosystem.</p>
-      <p>I excel in both qualitative and quantitative research, ensuring data accuracy and relevance for strategic decision-making. With strong communication and reporting skills, I effectively present findings to leadership and stakeholders, driving informed curriculum and marketplace decisions.</p>
-    </td>
-  </tr>
-</table>
+As a **Research and Data Operations Manager** with extensive experience in data analysis, project management, and research methodologies, I specialize in turning complex data into actionable insights for the **[Lucebra](https://www.lucebra.com)** ecosystem.
+
+I excel in both qualitative and quantitative research, ensuring data accuracy and relevance for strategic decision-making. With strong communication and reporting skills, I effectively present findings to leadership and stakeholders, driving informed curriculum and marketplace decisions.
 
 ### Core Operational Pillars:
 * 🎯 **Instructor Strategy & Global Relations:** Scouting, vetting, and onboarding world-class educators and enterprise trainers from **40+ countries**, shaping fair-share creator economics.
